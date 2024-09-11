@@ -10,4 +10,5 @@ In this we have used print function to print the number and its square using suc
 In this we have use the **sum** function to print the sum of the three numbers
 ###### Weather a number is prime or not
 In this part we have use the **def** function to define **is_prime** with an argument **num** and uses the **if or for** function to return a value.
+
 ![Prime number]("C:\Users\ADMIN\Pictures\Screenshots\Prime number.png")
