@@ -11,4 +11,4 @@ In this we have use the **sum** function to print the sum of the three numbers
 ###### Weather a number is prime or not
 In this part we have use the **def** function to define **is_prime** with an argument **num** and uses the **if or for** function to return a value.
 
-![Prime number]("C:\Users\ADMIN\Pictures\Screenshots\Prime number.png""code image")
+![Prime number](https://github.com/user-attachments/assets/ab8441d3-0597-4cb5-b877-db9096a0f900)
